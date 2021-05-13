@@ -45,7 +45,7 @@
             app:layout_constraintTop_toTopOf="parent"
             app:listData="@{viewModel.photos}"
             app:spanCount="2"
-            tools:itemCount="17"
+            tools:itemCount="16"
             tools:listitem="@layout/grid_view_item" />
 
         <ImageView
